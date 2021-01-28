@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Classroom App
+
+Ready to be explored in the Virtual Experience of the New Reality.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
